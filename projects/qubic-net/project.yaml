@@ -1,0 +1,7 @@
+# Qubic.Net: the .NET SDK for Qubic (Core types, Crypto, Serialization, Network,
+# RPC, Services, WalletConnect). Published as the Qubic.* NuGet packages.
+repo: https://github.com/qubic/Qubic.Net#main
+primary_contact: tech@qubic.org
+homepage: https://qubic.org
+disabled: false
+# Dockerfile and threat_model.md live next to this file (projects/qubic-net/).
