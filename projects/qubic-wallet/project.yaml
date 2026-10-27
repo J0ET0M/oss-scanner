@@ -1,0 +1,8 @@
+# Qubic Wallet: the official web wallet (Angular 16 PWA, also packaged as an
+# Electron desktop app). Generates/stores seeds in the browser, derives identities,
+# signs transactions and talks to the network over RPC.
+repo: https://github.com/qubic/wallet#main
+primary_contact: tech@qubic.org
+homepage: https://qubic.org
+disabled: false
+# Dockerfile and threat_model.md live next to this file (projects/qubic-wallet/).
