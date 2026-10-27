@@ -1,0 +1,8 @@
+# Qubic Wallet App: the official mobile wallet (Flutter/Dart, Android + iOS, with
+# desktop/web targets present). Generates/stores seeds, derives identities, signs
+# transactions, connects to dApps via WalletConnect, and talks to the network over RPC.
+repo: https://github.com/qubic/wallet-app#main
+primary_contact: tech@qubic.org
+homepage: https://qubic.org
+disabled: false
+# Dockerfile and threat_model.md live next to this file (projects/qubic-wallet-app/).
