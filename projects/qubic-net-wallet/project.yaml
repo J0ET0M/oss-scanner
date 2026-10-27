@@ -1,0 +1,7 @@
+# Qubic.Net.Wallet: the desktop Qubic wallet (Photino.Blazor). Manages seeds,
+# signs transactions and talks to the network via the Qubic.* SDK.
+repo: https://github.com/qubic/Qubic.Net.Wallet#master
+primary_contact: tech@qubic.org
+homepage: https://qubic.org
+disabled: false
+# Dockerfile and threat_model.md live next to this file (projects/qubic-net-wallet/).
