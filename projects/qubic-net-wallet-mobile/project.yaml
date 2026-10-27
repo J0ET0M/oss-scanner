@@ -1,0 +1,7 @@
+# Qubic.Net.Wallet.Mobile: the Android Qubic wallet (.NET MAUI Blazor Hybrid).
+# Manages seeds, signs transactions, biometric unlock, SQLCipher storage, QR/WalletConnect.
+repo: https://github.com/qubic/Qubic.NET.Wallet.Mobile#master
+primary_contact: tech@qubic.org
+homepage: https://qubic.org
+disabled: false
+# Dockerfile and threat_model.md live next to this file (projects/qubic-net-wallet-mobile/).
